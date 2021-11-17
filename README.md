@@ -19,8 +19,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript and TypeScript.
 
 
-<p align="center" width="100%" height= "200" >
-    <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api?username=adelansari&count_private=true&show_icons=true&theme=radical">
-    <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari&layout=compact">
-</p>
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelansari&show_icons=true&theme=vue-dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelansari&layout=compact&langs_count=8&theme=vue-dark"/>
 
+
+<p align="center">
+<a href="https://www.linkedin.com/in/adel-ansari/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+<a href="mailto:adelansari.a@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
+</p>
