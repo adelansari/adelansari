@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelansari&show_icons=true&theme=gruvbox"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelansari&show_icons=true&theme=merko "/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=merko "/>
 
 
 <p align="center">
