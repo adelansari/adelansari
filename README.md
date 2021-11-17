@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript and TypeScript.
 
 
+<p align="center" width="100%">
+    <img width="50%%" src="https://github-readme-stats.vercel.app/api?username=adelansari&count_private=true&show_icons=true&theme=radical">
+    <img width="50%%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari">
+</p>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelansari&count_private=true&show_icons=true&theme=radical" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari@theme=radical" />
-</a>
