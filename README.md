@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 <p align="center" width="100%">
-    <img width="50%%" src="https://github-readme-stats.vercel.app/api?username=adelansari&count_private=true&show_icons=true&theme=radical">
-    <img width="50%%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari">
+    <img width="30%%" src="https://github-readme-stats.vercel.app/api?username=adelansari&count_private=true&show_icons=true&theme=radical">
+    <img width="30%%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari">
 </p>
 
