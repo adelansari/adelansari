@@ -22,9 +22,5 @@ Here are some ideas to get you started:
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=adelansari&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari" />
 </a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari&langs_count=8" />
-</a>
-
-
