@@ -1,4 +1,5 @@
 ### Hi, I'm Adel Ansari! 👋
+![profile_views](https://komarev.com/ghpvc/?username=adelansari)
 
 <!--
 **adelansari/adelansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,3 +29,10 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/adel-ansari/"><img src="https://img.shields.io/badge/-Linkedin-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 <a href="mailto:adelansari.a@gmail.com"><img src="https://img.shields.io/badge/-Email-008B8B?style=flat&logo=appveyor=&logoColor=white"/></a>
 </p>
+
+
+
+
+#### My stats
+
+<img align="center" src="/github-metrics.svg" alt="Adel's github stats">
