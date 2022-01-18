@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on few discord bots.
-- 🌱 I’m learning JavaScript and TypeScript.
+- 🌱 I’m learning React and TypeScript.
 
 
 <p align="center">
