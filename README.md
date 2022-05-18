@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=adelansari&show_icons=true&theme=algolia"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia"/>
 
 
 <p align="center">
