@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on few discord bots.
 - 🌱 I’m learning React, Go and TypeScript.
 
-<!--
 <p align="center">
   <img height="150em" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia"/>
   <img height="150em" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia"/>
- -->
+</p>
  
- 
+<!--
 <a href="https://github.com/adelansari">
   <img align="center" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/adelansari">
   <img align="center" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia" />
 </a>
+-->
 
 
 <p align="center">
