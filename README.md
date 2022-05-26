@@ -1,5 +1,6 @@
 ### Hi, I'm Adel Ansari! 👋
-![profile_views](https://komarev.com/ghpvc/?username=adelansari)
+![profile_views](https://komarev.com/ghpvc/?username=adelansari)  
+
 
 <!--
 **adelansari/adelansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,18 +21,18 @@ Here are some ideas to get you started:
 - 🌱 I’m learning React, Go and TypeScript.
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia"/>
-  <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER"/>
+  <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia&hide_border=1&role=OWNER"/>
 </p>
  
-<!--
-<a href="https://github.com/adelansari">
+
+<!-- <a href="https://github.com/adelansari">
   <img align="center" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/adelansari">
   <img align="center" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia" />
-</a>
--->
+</a> -->
+
 
 
 <p align="center">
