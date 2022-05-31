@@ -25,14 +25,14 @@ Here are some ideas to get you started:
   <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia&role=OWNER"/>
 </p> -->
 
-<table align="center" width="100%">
+<table align="center" width="100%" height="200px">
 <tbody>
   <tr>
-    <td valign="top" width="50%">
-      <img align="center" alt="GithubStats" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true" width="100%" />
+    <td valign="top" width="50%" height="100%">
+      <img align="center" alt="GithubStats" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true" width="100%" height="100%" />
     </td>
-    <td valign="top" width="50%">
-      <img align="center" alt="Languages" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia" width="100%" />
+    <td valign="top" width="50%" height="100%">
+      <img align="center" alt="Languages" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia" width="100%" height="100%" />
     </td>
   </tr>
 </tbody>
