@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 <tbody>
   <tr>
     <td valign="top" width="50%">
-      <img align="center" alt="GithubStats" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true&card_width=450&role=OWNER" width="100%" height="200" />
+      <img align="center" alt="GithubStats" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true" width="100%" height="200px" />
     </td>
     <td valign="top" width="50%">
-      <img align="center" alt="Languages" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia&role=OWNER" width="100%" height="200" />
+      <img align="center" alt="Languages" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia" width="100%" height="200px" />
     </td>
   </tr>
 </tbody>
