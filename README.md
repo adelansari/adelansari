@@ -20,18 +20,23 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on few discord bots.
 - 🌱 I’m learning React, Go and TypeScript.
 
-<p align="center">
+<!-- <p align="center">
   <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true&card_width=450&role=OWNER"/>
   <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia&role=OWNER"/>
-</p>
- 
+</p> -->
 
-<!-- <a href="https://github.com/adelansari">
-  <img align="center" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia" />
-</a>
-<a href="https://github.com/adelansari">
-  <img align="center" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia" />
-</a> -->
+<table align="center" width="100%">
+<tbody>
+  <tr>
+    <td valign="top" width="50%">
+      <img align="center" alt="GithubStats" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true&card_width=450&role=OWNER" width="100%" height="200" />
+    </td>
+    <td valign="top" width="50%">
+      <img align="center" alt="Languages" src="https://github-readme-stats-adelansari.vercel.app/api/top-langs/?username=adelansari&layout=compact&langs_count=8&theme=algolia&role=OWNER" width="100%" height="200" />
+    </td>
+  </tr>
+</tbody>
+</table>
 
 
 
