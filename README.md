@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on few discord bots.
-- 🌱 I’m learning React, Go and TypeScript.
+- 🔭 I’m currently working on few web apps and a Unity game.
+- 🌱 I’m trying to improve in C#.
 
 <p align="center">
   <img height="200" src="https://github-readme-stats-adelansari.vercel.app/api?username=adelansari&show_icons=true&theme=algolia&count_private=true&line_height=28&include_all_commits=true&card_width=450"/>
