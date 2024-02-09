@@ -2,7 +2,7 @@
 
 ![profile_views](https://komarev.com/ghpvc/?username=adelansari&style=for-the-badge)
 
-![Codewars](https://www.codewars.com/users/adelansari/badges/large)
+[![Codewars](https://www.codewars.com/users/adelansari/badges/large)](https://www.codewars.com/users/adelansari)
 
 <!--
 **adelansari/adelansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
