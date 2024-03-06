@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 - Math wizard
 
 <p align="center">
-  <img src="./assets/Octodex.gif" alt="busywork" height="400"  style="display: block;">
+  <img src="./assets/Octodex.gif" alt="busywork" height="300"  style="display: block;">
 </p>
 
-<h3><img src="./assets/skills.gif" alt="Skills Icon" width="30" height="30" style="vertical-align: middle;">Skills</h3>
+<h3>Skills <img src="./assets/skills.gif" alt="Skills Icon" width="30" height="30" style="vertical-align: text-top;"></h3>
 
 - **Languages:** JS, TS, C#, Go, PHP, Py, C++, VB
 - **Frontend:** React, Redux, Next, Angular, Styling (MUI, Bootstrap, Tailwind)
