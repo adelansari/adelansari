@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ### About me
 
+<img width="55%" align="right" alt="Github" src="./assets/Octodex.gif" />
+
 - 🔭 Passionate about web development, constantly tinkering with frontend and full-stack apps. Video games and modding are my other loves.
 - 🌱 Always learning
   - Learning: PHP, Angular
@@ -29,9 +31,9 @@ Here are some ideas to get you started:
 - I draw digitally sometimes with my old tablet using ibisPaint X.
 - Math wizard
 
-<p align="center">
+<!-- <p align="center">
   <img src="./assets/Octodex.gif" alt="busywork" height="400"  style="display: block;">
-</p>
+</p> -->
 
 ### Skills
 
