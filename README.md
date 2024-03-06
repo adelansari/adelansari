@@ -2,8 +2,6 @@
 
 ![profile_views](https://komarev.com/ghpvc/?username=adelansari&style=for-the-badge)
 
-<img height="300" align="right" alt="Github" src="./assets/Octodex.gif">
-
 [![Codewars](https://www.codewars.com/users/adelansari/badges/large)](https://www.codewars.com/users/adelansari)
 
 <!--
@@ -21,21 +19,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- <img height="300" align="right" alt="Github" src="./assets/Octodex.gif"> -->
+
 ### About me
 
 <!-- <img width="55%" align="right" alt="Github" src="./assets/Octodex.gif" /> -->
 
-- 🔭 Passionate about web development, constantly tinkering with frontend and full-stack apps. Video games and modding are my other loves.
+- 🔭 Passionate about web development, constantly tinkering with frontend and full-stack apps.
 - 🌱 Always learning
   - Learning: PHP, Angular
   - Improving: Typescript, React, Next.js, C# and .NET
   - Interested: Machine Learning
+- I enjoy playing video games, decompiling and moding them..
 - I draw digitally sometimes with my old tablet using ibisPaint X.
 - Math wizard
 
-<!-- <p align="center">
-  <img src="./assets/Octodex.gif" alt="busywork" height="300"  style="display: block;">
-</p> -->
+<p align="center">
+  <img src="./assets/Octodex.gif" alt="busywork" height="350"  style="display: block;">
+</p>
 
 ### Skills
 
