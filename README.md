@@ -30,9 +30,9 @@ Here are some ideas to get you started:
   - Learning: PHP, Angular
   - Improving: Typescript, React, Next.js, C# and .NET
   - Interested: Machine Learning
-- I enjoy playing video games, decompiling and moding them..
-- I draw digitally sometimes with my old tablet using ibisPaint X.
-- Math wizard
+- 🎮 I enjoy playing video games, decompiling and modding them.
+- 🖌️ I draw digitally sometimes with my old tablet using ibisPaint X.
+- 🪄 Math wizard.
 
 <p align="center">
   <img src="./assets/Octodex.gif" alt="busywork" height="350"  style="display: block;">
