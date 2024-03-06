@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-<img width="55%" align="right" alt="Github" src="./assets/Octodex.gif" />
+<!-- <img width="55%" align="right" alt="Github" src="./assets/Octodex.gif" /> -->
 
 - 🔭 Passionate about web development, constantly tinkering with frontend and full-stack apps. Video games and modding are my other loves.
 - 🌱 Always learning
@@ -31,11 +31,11 @@ Here are some ideas to get you started:
 - I draw digitally sometimes with my old tablet using ibisPaint X.
 - Math wizard
 
-<!-- <p align="center">
+<p align="center">
   <img src="./assets/Octodex.gif" alt="busywork" height="400"  style="display: block;">
-</p> -->
+</p>
 
-### Skills
+<h3><img src="./assets/skills.gif" alt="Skills Icon" width="30" height="30" style="vertical-align: middle;">Skills</h3>
 
 - **Languages:** JS, TS, C#, Go, PHP, Py, C++, VB
 - **Frontend:** React, Redux, Next, Angular, Styling (MUI, Bootstrap, Tailwind)
