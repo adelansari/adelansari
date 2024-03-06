@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="350" align="right" alt="Github" src="./assets/Octodex.gif">
+<img height="300" align="right" alt="Github" src="./assets/Octodex.gif">
 
 ### About me
 
