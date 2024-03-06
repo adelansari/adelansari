@@ -2,6 +2,8 @@
 
 ![profile_views](https://komarev.com/ghpvc/?username=adelansari&style=for-the-badge)
 
+<img height="300" align="right" alt="Github" src="./assets/Octodex.gif">
+
 [![Codewars](https://www.codewars.com/users/adelansari/badges/large)](https://www.codewars.com/users/adelansari)
 
 <!--
@@ -18,8 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img height="300" align="right" alt="Github" src="./assets/Octodex.gif">
 
 ### About me
 
