@@ -1,4 +1,4 @@
-![Header](./assets/github-header-image.png)
+<!--![Header](./assets/github-header-image.png)-->
 
 ![profile_views](https://komarev.com/ghpvc/?username=adelansari&style=for-the-badge)
 
